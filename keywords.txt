@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Keyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MYWIFI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Reset	KEYWORD2
+Begin	KEYWORD2
+TCPSERVER	KEYWORD2
+TCPSERVER	KEYWORD2
+ShowAP	KEYWORD2
+GetIP	KEYWORD2
+TCPCLIENT	KEYWORD2
+IPConfig	KEYWORD2
+UDPSERVER	KEYWORD2
+UDPSEND		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
